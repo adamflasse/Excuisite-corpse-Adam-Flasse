@@ -1,3 +1,4 @@
-Le jambon est bleu
-pourtant il sent bon
+The train is yellow 
+before it was in advance 
+and then it started roaring
 
